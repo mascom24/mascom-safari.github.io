@@ -1,0 +1,26 @@
+/**************************************************
+********  global-style                     ********                             
+---------------------------------------------------
+********  Coding@scom      App.vr0.70      ********                              
+---------------------------------------------------
+********  Coding@scom ft-002               ********                              
+---------------------------------------------------                                                 
+********  https://mascomsafari.com/ft-002  ********                   
+*/
+/* html, body, div, span, strong, p, em,
+h1, h2,h3, h4, h5, h6, img, button, ul,  {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+}*/
+
+*{
+  list-style: none;
+  text-decoration: none;
+  
+}
+
+a{
+  text-decoration: none;
+}
